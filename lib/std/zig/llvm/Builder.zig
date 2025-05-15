@@ -285,6 +285,7 @@ pub const DataLayout = struct {
             .sheb,
             .x86_16,
             .xtensaeb,
+            .spork8,
             => unreachable,
         };
     }
